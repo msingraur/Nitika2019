@@ -272,6 +272,7 @@
     <Content Include="EDMX\SysComments.edmx.diagram">
       <DependentUpon>SysComments.edmx</DependentUpon>
     </Content>
+    <Content Include="DBComments.bak" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
